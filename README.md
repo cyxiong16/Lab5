@@ -5,7 +5,7 @@
 
 ## Part 1:
 
-LINK TO YOUR PUBLISHED SITE
+https://cyxiong16.github.io/Lab5/
 
 ## Part 2:
 
