@@ -9,4 +9,4 @@ https://cyxiong16.github.io/Lab5/
 
 ## Part 2:
 
-LINK TO YOUR PART 2 REPOSITORY
+https://github.com/cyxiong16/github-actions-for-ci/issues/7#issue-873798270
